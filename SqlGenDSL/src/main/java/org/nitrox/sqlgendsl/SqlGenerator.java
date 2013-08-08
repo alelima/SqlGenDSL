@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author Alessandro Lima (alessandro.lima@serpro.gov.br)
+ * @author Alessandro Lima (alessandrolima@gmail.com)
  */
 public class SqlGenerator {
 

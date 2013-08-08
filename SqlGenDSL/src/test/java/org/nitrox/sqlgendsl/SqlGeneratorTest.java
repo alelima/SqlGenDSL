@@ -10,7 +10,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Alessandro Lima (alessandro.lima@serpro.gov.br)
+ * @author Alessandro Lima (alessandrolima@gmail.com)
  */
 public class SqlGeneratorTest {
     
